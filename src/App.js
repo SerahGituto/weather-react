@@ -10,6 +10,12 @@ function App() {
       <div className="container">
         <Search defaultCity="Lisbon" />
       </div>
+      <div className="footer">
+        <a href="https://github.com/SerahGituto/weather-react">
+          Open-source code
+        </a>{" "}
+        by Serah.
+      </div>
     </div>
   );
 }
